@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/KnotFun/static/css/main.ce75b245.css",
-    "main.js": "/KnotFun/static/js/main.26d4a34d.js",
+    "main.css": "/KnotFun/static/css/main.14db9a42.css",
+    "main.js": "/KnotFun/static/js/main.ca2fa5ca.js",
     "index.html": "/KnotFun/index.html",
-    "main.ce75b245.css.map": "/KnotFun/static/css/main.ce75b245.css.map",
-    "main.26d4a34d.js.map": "/KnotFun/static/js/main.26d4a34d.js.map"
+    "main.14db9a42.css.map": "/KnotFun/static/css/main.14db9a42.css.map",
+    "main.ca2fa5ca.js.map": "/KnotFun/static/js/main.ca2fa5ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce75b245.css",
-    "static/js/main.26d4a34d.js"
+    "static/css/main.14db9a42.css",
+    "static/js/main.ca2fa5ca.js"
   ]
 }
